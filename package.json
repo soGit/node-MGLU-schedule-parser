@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/soGit/node-MGLU-schedule-parser/issues"
   },
-  "homepage": "https://github.com/soGit/node-MGLU-schedule-parser#readme"
+  "homepage": "https://github.com/soGit/node-MGLU-schedule-parser#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
 }
